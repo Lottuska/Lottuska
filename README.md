@@ -10,8 +10,6 @@ I'm studying Information and Communication Technology at JAMK University of Appl
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lottuska&theme=calm&layout=compact)](https://github.com/Lottuska/github-readme-stats)
 
 ### Languages and tools
 
